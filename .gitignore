@@ -1,0 +1,83 @@
+# Ignore build output directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.vspscc
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Visual Studio Code directories
+.vscode/
+
+# NuGet packages
+*.nupkg
+**/packages/*
+# Uncomment if you have a NuGet Packages folder you want to track.
+#!**/packages/keep/
+
+# Dotnet dependencies
+*.deps.json
+*.runtimeconfig.json
+
+# Resharper files
+*.DotSettings.user
+
+# StyleCop
+StyleCopCache
+
+# Logs
+*.log
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS-specific files
+.DS_Store
+
+# Rider settings
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Rider files
+.idea/
+
+# Visual Studio solution and workspace specific files
+.vs/
+.vscode/
+
+# JetBrains Rider directories
+.idea/
+
+# JetBrains Rider file-based project model caches
+.idea/*.dotSettings.user
+
+# Rider's backend config
+.idea/backendConnectionConfigurations.xml
+.idea/backendService.config
+.idea/.idea_dockerServerToolwindow.xml
+
+# Local History directory
+.idea/.history/
+
+# JetBrains Rider's dotcover cache
+.dotCover
+
+# Global JetBrains Rider's settings 
+/.idea/workspace.xml
+
+# Rider test results cache 
+/.idea/.cache/
+/.idea/.Rider2018.2/
+
+# Uncomment if you have a Tooling folder you want to track
+# .tools/
